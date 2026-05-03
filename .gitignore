@@ -3,3 +3,7 @@ agree_graph_communities.json
 agree_graph.json
 disagree_graph.json
 voter_graph.json
+agree_subgraph.png
+community_summary.png
+temporal_community_activity.png
+.gitignore
