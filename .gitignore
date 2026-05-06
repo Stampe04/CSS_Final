@@ -37,3 +37,10 @@ echo_chamber_scatter.png
 rfa_success_trends.png
 vote_trends.png
 voter_retention.png
+community_0_tfidf_wordcloud.png
+community_1_tfidf_wordcloud.png
+community_2_tfidf_wordcloud.png
+community_3_tfidf_wordcloud.png
+community_4_tfidf_wordcloud.png
+community_5_tfidf_wordcloud.png
+rfa_graph_2013.csv
