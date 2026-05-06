@@ -6,4 +6,6 @@ voter_graph.json
 agree_subgraph.png
 community_summary.png
 temporal_community_activity.png
+rfa_graph.json
+rfa_graph.csv
 .gitignore
